@@ -1,0 +1,95 @@
+{
+    "webs":[
+        {
+           "img":"../imgs/web/qr_code.jpg",
+           "title":"سوشيال باركود",
+           "demo":"https://abdelhameed-meedo2000-websites.on.drv.tw/web/qr%20code/qr.html",
+           "code":"https://github.com/Abdelhameedmeedo/qr_code-generator"
+        },
+        {
+            "img":"../imgs/web/mob_calc.jpg" ,
+            "title":"الة للهاتف",
+            "demo":"https://abdelhameed-meedo2000-websites.on.drv.tw/web/calculator/calc.html",
+            "code":"https://github.com/Abdelhameedmeedo/mob_calc"
+         },
+         {
+            "img":"../imgs/web/music.jpg" ,
+            "title":"مشغل ميديا",
+            "demo":"https://abdelhameed-meedo2000-websites.on.drv.tw/web/music-js/music.html",
+            "code":"https://github.com/Abdelhameedmeedo/music"
+         },
+         {
+            "img":"../imgs/web/nicepage.jpg" ,
+            "title":"موقع نيس",
+            "demo":"https://abdelhameed-meedo2000-websites.on.drv.tw/web/nicepage/page.html",
+            "code":"https://github.com/Abdelhameedmeedo/nicepage"
+         },
+         {
+            "img":"../imgs/web/old_calc.jpg" ,
+            "title":"الة",
+            "demo":"https://abdelhameed-meedo2000-websites.on.drv.tw/web/old_calc/calc.html",
+            "code":"https://github.com/Abdelhameedmeedo/old_calc"
+         },
+         {
+            "img":"../imgs/web/restaurant.jpg" ,
+            "title":" مطعم علوان",
+            "demo":"https://abdelhameed-meedo2000-websites.on.drv.tw/web/elwan-restaurant/main.html",
+            "code":"https://github.com/Abdelhameedmeedo/elwan-restaurant"
+         },
+         {
+            "img":"../imgs/web/speed_game.jpg" ,
+            "title":"لعبة سرعة الكتابة",
+            "demo":"https://abdelhameed-meedo2000-websites.on.drv.tw/web/writing_speed_test%20-%20Copy/speed.html"
+         }
+    ],
+    "designs":[
+        {
+           "img":"../imgs/designs/axe.png",
+           "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+        },
+        {
+            "img":"../imgs/designs/black_headphone.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/bmw.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/face_washable.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/foam.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/headphone.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/plane_phone.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/sheetos.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/shoes.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/watch.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/watch_1.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         },
+         {
+            "img":"../imgs/designs/امي.png" ,
+            "demo":"https://www.behance.net/gallery/170423795/beginning-designs"
+         }
+    ]
+}

@@ -1,0 +1,19 @@
+main color=> F54951
+main-back=> 222438
+font-size => 20px
+--------js-----------
+--upload rest to drive + git => make it html 
+-add webs demo links
+-code -u can get code too
+-channel cclick =>popup wit links
+-------------------
+#messenger
+<a href="https://m.me/mybusiness?ref=website&text=Hello!" target="_blank">Send a Message</a>
+
+----------------
+css : writing-mode
+
+-------------------------------------
+-----------libraries --------------
+_progress bar
+_css animation
